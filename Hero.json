@@ -1,40 +1,106 @@
 {
-  "squadName" : "Super hero squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
-  "secretBase" : "Super tower",
-  "active" : true,
-  "members" : [
+  "squadName": "The dream ten team",
+  "homeTown": "The United States",
+  "formed": 2012,
+  "secretBase": "Super tower",
+  "active": true,
+  "members": [
     {
-      "name" : "Molecule Man",
+      "name": "New York Knicks",
       "age" : 29,
-      "secretIdentity" : "Dan Jukes",
-      "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+      "secretIdentity": "Carmelo Anthony",
+      "powers": [
+        "Arm span: 2.13m /7 ft",
+        "Nickname: cantaloupe",
+        "Jersey number: 7"
       ]
     },
+
     {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
-      "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+      "name": "Miami Heat",
+      "age" : 29,
+      "secretIdentity": "LeBron James",
+      "powers": [
+        "Height: 2.03m / 6ft 8",
+        "Position: small forward",
+        "Jersey number: 6"
       ]
     },
+
     {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
-      "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+      "name": "Los Angeles Clippers",
+      "age" : 29,
+      "secretIdentity": "Chris Paul",
+      "powers": [
+        "Height: 1.83m (6ft)",
+        "Position: point guard",
+        "Jersey number: 3",
+      ]
+    },
+
+    {
+      "name": "Minnesota Timberwolves",
+      "age" : 29,
+      "secretIdentity": "Kevin love",
+      "powers": [
+        "Jersey number: 0",
+        "Height: 2.08m / 6ft 10in",
+        "Position: power forward/center"
+      ]
+    },
+
+    {
+      "name": "Oklahoma city thunders",
+      "age" : 29,
+      "secretIdentity": "Kevin durant",
+      "powers": [
+        "Height: 211cm",
+        "Position: small forward/power forward",
+        "Jersey number: 35"
+      ]
+    },
+
+    {
+      "name": "Los Angeles Lakers",
+      "age" : 29,
+      "secretIdentity": "Kobe Bryant",
+      "powers": [
+        "Nickname: Black Manba, Peter pan",
+        "Jersey number: 8/24",
+        "Height: 1.98 m /6 ft 6 in"
+      ]
+    },
+
+    {
+      "name": "New Orleans Hornets",
+      "age" : 29,
+      "secretIdentity": "Anthony Davis",
+      "powers": [
+        "Weight: 100kg / 220lb",
+        "Height: 2.08 m /6 ft 10 in",
+        "Jersey number: 23"
+      ]
+    },
+
+    {
+      "name": "philadelphia 76ers players",
+      "age" : 29,
+      "secretIdentity": "Andre Iguodala",
+      "powers": [
+        "Height: 1.98 m /6 ft 6 in",
+        "Position: Point guard/small forward",
+        "Jersey number: 9"
+      ]
+    },
+
+    {
+      "name": "Brooklyn Nets",
+      "age" : 29,
+      "secretIdentity": "Deron Williams",
+      "powers": [
+        "Height: 1.91 m /6 ft 3 in",
+        "Position: point guard",
+        "Jersey number: 8"
       ]
     }
   ]
