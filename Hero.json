@@ -7,7 +7,7 @@
   "members" : [
     {
       "name" : "Carmelo Anthony",
-      "birthday": "May 29, 1984",
+      "birthday": "May 29 1984",
       "secretIdentity" : "Cantaloupe",
       "powers" : [
         "Height: 2.16m / 7ft 1 in",
@@ -17,7 +17,7 @@
     },
     {
       "name" : "Kevin love",
-      "birthday": "September 7, 1988",
+      "birthday": "September 7 1988",
       "secretIdentity" : "God of Love",
       "powers" : [
         "Jersey number: 0",
@@ -27,7 +27,7 @@
     },
     {
       "name" : "Kevin durant",
-      "birthday": "September 29, 1988",
+      "birthday": "September 29 1988",
       "secretIdentity" : "A-do",
       "powers" : [
         "Height: 211cm",
