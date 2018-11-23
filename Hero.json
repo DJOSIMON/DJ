@@ -8,7 +8,7 @@
     {
       "name" : "Carmelo Anthony",
       "birthday": "May 29 1984",
-      "secretIdentity" : "Cantaloupe",
+      "nickname" : "Cantaloupe",
       "powers" : [
         "Height: 2.16m / 7ft 1 in",
         "Professional features: center",
@@ -18,7 +18,7 @@
     {
       "name" : "Kevin love",
       "birthday": "September 7 1988",
-      "secretIdentity" : "God of Love",
+      "nickname" : "God of Love",
       "powers" : [
         "Jersey number: 0",
         "Height: 2.08m / 6ft 10in",
@@ -28,7 +28,7 @@
     {
       "name" : "Kevin durant",
       "birthday": "September 29 1988",
-      "secretIdentity" : "A-do",
+      "nickname" : "A-do",
       "powers" : [
         "Height: 211cm",
         "Position: small forward/power forward",
