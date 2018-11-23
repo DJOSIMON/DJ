@@ -1,40 +1,38 @@
 {
-  "squadName" : "Super hero squad",
+  "squadName" : "The dream ten team",
   "homeTown" : "Metro City",
   "formed" : 2016,
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
     {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
+      "name" : "Carmelo Anthony",
+      "age" : **,
+      "secretIdentity" : "Cantaloupe",
       "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+        "Height: 2.16m / 7ft 1 in",
+        "Professional features: center",
+        "Jersey number: 6"
       ]
     },
     {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
+      "name" : "Kevin love",
+      "age" : **,
+      "secretIdentity" : "God of Love",
       "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+        "Jersey number: 0",
+        "Height: 2.08m / 6ft 10in",
+        "Position: power forward/center"
       ]
     },
     {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
+      "name" : "Kevin durant",
+      "age" : **,
+      "secretIdentity" : "A-do",
       "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+        "Height: 211cm",
+        "Position: small forward/power forward",
+        "Jersey number: 35"
       ]
     }
   ]
